@@ -1,0 +1,9 @@
+#This is my .gitignore file
+.idea
+learn_git.iml
+
+#Patterns :
+.o # ignore all files ending with .o
+!lib.o # do not ignore this file, exeption for pattern above
+doc/*.txt #ignore doc/test.txt but not doc/map/test.txt
+test_build/ # ignore all files in test_build folder
