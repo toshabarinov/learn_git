@@ -1,4 +1,4 @@
-package com.company.test_inheritence_methods;
+package com.company.test_inheritance_methods;
 
 public class Parent {
     public void method() {
