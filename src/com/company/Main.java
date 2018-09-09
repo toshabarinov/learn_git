@@ -7,7 +7,8 @@ public class Main {
     private static final String constant = "MAIN HUMAN";
 
     public static void main(String[] args) {
-        System.out.println("Hello wonderful world");
+        String world = "Oh, what a stupid world!";
+        System.out.println(world);
         System.out.println(new Human("Alex", "Armstrong", 39).toString());
         System.out.println(constant);
     }
