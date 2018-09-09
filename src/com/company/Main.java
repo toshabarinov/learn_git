@@ -9,7 +9,7 @@ public class Main {
     public static void main(String[] args) {
         String world = "Hello mad world";
         System.out.println(world);
-        System.out.println(new Human("Alex", "Armstrong", 33).toString());
+        System.out.println(new Human("Alex", "Armstorong", 63).toString());
         System.out.println(constant);
     }
 }
