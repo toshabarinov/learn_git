@@ -1,6 +1,7 @@
 #This is my .gitignore file
 .idea
 learn_git.iml
+out
 
 #Patterns :
 .o # ignore all files ending with .o
